@@ -6,7 +6,7 @@ http://www.cloudera.com/documentation/enterprise/latest/topics/cdh_ig_jdk_instal
 
 The Oracle JDK installer is available both as an RPM-based installer for RPM-based systems, and as a binary installer for other systems.
 
-1. Download the .tar.gz file for one of the supported versions of the Oracle JDK from Java SE 8 Downloads or Java SE 7 Downloads. (These links are correct at the time of writing but change frequently.)
+1. Download the .tar.gz file for one of the supported versions of the Oracle JDK from [Java SE 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html) or [Java SE 7 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html). (These links are correct at the time of writing but change frequently.)
 2. Extract the JDK to /usr/java/jdk-version; for example /usr/java/jdk.1.7.0_nn or /usr/java/jdk.1.8.0_nn, where nn is a supported version.
 3. Set JAVA_HOME to the directory where the JDK is installed, for example
   ```
